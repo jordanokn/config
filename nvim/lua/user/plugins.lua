@@ -33,6 +33,7 @@ vim.cmd [[
   Plug 'tjdevries/colorbuddy.nvim', { 'branch': 'dev' }
   Plug 'https://github.com/jordanokn/nvim-andromeda.git'
   Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
+  Plug 'Mofiqul/dracula.nvim'
 
   call plug#end()
 ]]
