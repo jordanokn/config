@@ -1,0 +1,12 @@
+"this file is for pyacharm idea vim
+
+inoremap jk <Esc>
+
+vmap <Tab> >gv
+vmap <S-Tab> <gv
+
+set ideajoin
+set ideastatusicon=true
+set idearefactormode=keep
+
+set mouse=nv

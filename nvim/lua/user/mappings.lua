@@ -1,6 +1,6 @@
 -- Вставка: выход из режима вставки с помощью 'jk'
 vim.api.nvim_set_keymap('i', 'jk', '<Esc>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('v', 'jk', '<Esc>', { noremap = true, silent = true })
+--vim.api.nvim_set_keymap('v', 'jk', '<Esc>', { noremap = true, silent = true })
 
 -- NERDTree: переключение боковой панели
 vim.api.nvim_set_keymap('n', '<C-s>', ':NERDTreeToggle<CR>', { noremap = true, silent = true })
